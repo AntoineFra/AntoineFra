@@ -4,9 +4,6 @@
 <div style="max-width: 500px; text-align: left; font-size: 18px;">
 - 👨‍💻 I'm currently working on my End of Study project, a multiplayer "smash-like" game </br>
 - 📚 I’m an exchange student at Shibaura Institute of Technology in Tokyo, Japan
-</div>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-</div>
 
 ---
 

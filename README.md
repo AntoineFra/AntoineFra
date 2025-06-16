@@ -9,8 +9,8 @@
 
 ##### My GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="160" src="https://vercel-readme-theta.vercel.app/api?username=AntoineFra&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats" />
-  <img height="160" src="https://vercel-readme-theta.vercel.app/api/top-langs/?username=AntoineFra&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&layout=compact"/>
+  <img height="160" src="https://vercel-readme-theta.vercel.app/api?username=AntoineFra&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&exclude_repo=AntoineFra,vercel-readme" />
+  <img height="160" src="https://vercel-readme-theta.vercel.app/api/top-langs/?username=AntoineFra&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&layout=compact&exclude_repo=AntoineFra,vercel-readme"/>
 </div>
 
 ##### Languages I use
